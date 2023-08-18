@@ -1,0 +1,17 @@
+{
+  "name": "retro-server",
+  "version": "1.0.0",
+  "description": "Server http pour API  RESt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server.http.api.rest"
+  ],
+  "author": "oussbad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
